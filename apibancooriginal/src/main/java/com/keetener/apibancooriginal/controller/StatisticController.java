@@ -1,4 +1,4 @@
-package com.keetener.apibancooriginal.controller;
+package com.keetener.apibancooriginal.it;
 
 import com.keetener.apibancooriginal.model.Statistic;
 import com.keetener.apibancooriginal.model.Transaction;
