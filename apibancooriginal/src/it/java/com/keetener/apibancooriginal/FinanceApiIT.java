@@ -1,4 +1,4 @@
-package com.keetener.apibancooriginal.controller;
+package com.keetener.apibancooriginal.it;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
